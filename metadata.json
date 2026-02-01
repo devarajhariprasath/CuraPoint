@@ -1,0 +1,7 @@
+{
+  "name": "CuraPoint Pharmacy POS",
+  "description": "A high-end, subscription-based pharmacy management and point-of-sale system tailored for the Sri Lankan market, featuring AI-assisted prescription parsing and a modern interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
